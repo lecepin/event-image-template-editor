@@ -1,0 +1,19 @@
+.editable-area {
+  cursor: pointer;
+  transition: all 0.3s;
+
+  &:hover {
+    outline: 2px dashed var(--primary-color);
+    outline-offset: -2px;
+  }
+
+  &.is-selected {
+    outline: 2px solid var(--primary-color);
+    outline-offset: -2px;
+  }
+
+  &.exporting {
+    outline: none !important;
+    outline-offset: 0 !important;
+  }
+}
