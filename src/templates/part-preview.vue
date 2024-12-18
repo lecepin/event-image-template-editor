@@ -43,7 +43,7 @@ const { getConfigValue, isSelected, handleAreaClick } = useTemplateArea(
   display: flex;
   justify-content: center;
   align-items: center;
-  background: url(https://ci.xiaohongshu.com/1041000831bd1vbb1nq06bv774p4000000000058h5fvs0.undefined)
+  background: url(https://qa-cos-1251524319.cos.ap-shanghai.myqcloud.com/yunxiao/1734494875467image.png)
     no-repeat center center;
   background-size: cover;
 

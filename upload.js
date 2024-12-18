@@ -53,7 +53,7 @@ allFiles.forEach(file => {
   // 上传文件
   axios({
     method: 'post',
-    url: 'http://play.devops.xiaohongshu.com/file/upload',
+    url: 'http://play.devops.xxx.com/file/upload',
     headers: {
       ...data.getHeaders()
     },

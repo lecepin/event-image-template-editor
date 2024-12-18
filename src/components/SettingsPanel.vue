@@ -152,7 +152,7 @@ const handleConfigUpdate = (key: string) => {
 };
 
 const handleOpenUploadUrl = () => {
-  window.open("https://play.devops.xiaohongshu.com/link/l/263", "_blank");
+  window.open("https://play.devops.xxx.com/link/l/263", "_blank");
 };
 
 watch(

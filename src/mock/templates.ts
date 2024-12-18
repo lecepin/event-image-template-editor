@@ -5,7 +5,7 @@ export const templates: Template[] = [
     id: "1",
     name: "前端双周分享",
     thumbnail:
-      "https://fe-platform.xhscdn.com/platform/104101l031bctbdts6m06bv774p400000000005a7kgrk2",
+      "https://qa-cos-1251524319.cos.ap-shanghai.myqcloud.com/yunxiao/1734494395614image.png",
     width: 750,
     templateFile: "fe-tech-share",
     areas: [
@@ -162,7 +162,7 @@ export const templates: Template[] = [
             type: "image",
             title: "图片地址",
             default:
-              "https://fe-platform.xhscdn.com/platform/104101l031bcrf4vs6o06bv774p4000000000058anuck6",
+              "https://qa-cos-1251524319.cos.ap-shanghai.myqcloud.com/yunxiao/1734494437582image.png",
           },
         },
       },
@@ -173,7 +173,7 @@ export const templates: Template[] = [
     id: "2",
     name: "Part 物料预览图",
     thumbnail:
-      "https://ci.xiaohongshu.com/1041000831bd1e7j5nq06bv774p4000000000058uh4c86.undefined",
+      "https://qa-cos-1251524319.cos.ap-shanghai.myqcloud.com/yunxiao/1734494482084image.png",
     width: 750,
     height: (750 * 9) / 16,
     templateFile: "part-preview",
@@ -198,43 +198,43 @@ export const templates: Template[] = [
             type: "image",
             title: "图片地址",
             default:
-              "https://ci.xiaohongshu.com/1041000831bd1ubv7mm06bv774p400000000005f5i5pk0.undefined",
+              "https://qa-cos-1251524319.cos.ap-shanghai.myqcloud.com/yunxiao/1734494514963image.png",
           },
           bg: {
             type: "select",
             title: "背景图",
             default:
-              "https://ci.xiaohongshu.com/1041000831bd2ingeg406bv774p400000000005fdidtcg.undefined",
+              "https://qa-cos-1251524319.cos.ap-shanghai.myqcloud.com/yunxiao/1734494547851image.png",
             options: [
               {
                 label: "灰色石材",
                 value:
-                  "https://ci.xiaohongshu.com/1041000831bd2ingeg406bv774p400000000005fdidtcg.undefined",
+                  "https://qa-cos-1251524319.cos.ap-shanghai.myqcloud.com/yunxiao/1734494547851image.png",
               },
               {
                 label: "蓝紫-纯色",
                 value:
-                  "https://ci.xiaohongshu.com/1041000831bd1vbb1nq06bv774p4000000000058h5fvs0.undefined",
+                  "https://qa-cos-1251524319.cos.ap-shanghai.myqcloud.com/yunxiao/1734494580419image.png",
               },
               {
                 label: "沙丘",
                 value:
-                  "https://ci.xiaohongshu.com/1041000831bd2go1b6m06bv774p4000000000058bcta9k.undefined",
+                  "https://qa-cos-1251524319.cos.ap-shanghai.myqcloud.com/yunxiao/1734494608910image.png",
               },
               {
                 label: "windows-光束线条-绿蓝",
                 value:
-                  "https://ci.xiaohongshu.com/1041000831bd2lk4rnq06bv774p400000000005ci05iiq.undefined",
+                  "https://qa-cos-1251524319.cos.ap-shanghai.myqcloud.com/yunxiao/1734494650018image.png",
               },
               {
                 label: "windows-光束线条-黄蓝",
                 value:
-                  "https://ci.xiaohongshu.com/1040000831bd2ne6mmo04h44u1o.undefined",
+                  "https://qa-cos-1251524319.cos.ap-shanghai.myqcloud.com/yunxiao/1734494679577image.png",
               },
               {
                 label: "windows-深色-黑蓝",
                 value:
-                  "https://ci.xiaohongshu.com/1041000831bd2rc1s0406bv774p4000000000058djd0q6.undefined",
+                  "https://qa-cos-1251524319.cos.ap-shanghai.myqcloud.com/yunxiao/1734494704493image.png",
               },
             ],
           },

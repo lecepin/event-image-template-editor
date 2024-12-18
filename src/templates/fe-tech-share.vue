@@ -3,7 +3,7 @@
     <div class="tpl-fe-tech-share__header">
       <img
         class="tpl-fe-tech-share__logo"
-        src="https://fe-video-qc.xhscdn.com/fe-platform/adbf5d0b8fc3cfc89d6d249b3be297e958f94c29.svg"
+        src="https://qa-cos-1251524319.cos.ap-shanghai.myqcloud.com/yunxiao/1734494795136adbf5d0b8fc3cfc89d6d249b3be297e958f94c29.svg"
       />
     </div>
     <div class="tpl-fe-tech-share__content">
@@ -94,7 +94,7 @@
         @click="handleAreaClick('location')"
       >
         <img
-          src="https://picasso-static.xiaohongshu.com/fe-platform/7fab15ac47f222ab286c58490f1274a216259c40.jpeg"
+          src="https://qa-cos-1251524319.cos.ap-shanghai.myqcloud.com/yunxiao/1734494847696image.png"
           alt="位置图标"
           class="tpl-fe-tech-share__location-icon"
         />
